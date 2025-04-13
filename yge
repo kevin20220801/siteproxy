@@ -1,0 +1,1 @@
+$("#main > div > div.col-md-8.col-xs-12.mainContainer > div.contentContainer > div.agreementComponent > label > input[type=checkbox]").removeAttr("disabled");
